@@ -1,0 +1,33 @@
+/* .custom-button {
+  height: 40px;
+  width: 150px;
+  margin-right: 10px;
+  border-radius: 0;
+  background-color: #fff;
+}
+.custom-button-primary{
+  height: 40px;
+  width: 150px;
+  border: 1px solid blue;
+  border-radius: 0;
+} */
+
+
+/* a{ 
+  text-decoration: none !important;
+  color: white !important;
+}
+.border-bottom:hover {
+  color: red!important;
+
+}*/
+h2 {
+  text-decoration: none;
+  color: greenyellow!important;
+}
+.btn {
+  border: none;
+  background-color: greenyellow!important;
+}
+
+
